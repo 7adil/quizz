@@ -1,0 +1,24 @@
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\obj\Debug\net6.0\m.Adil 19101001-073.csproj.AssemblyReference.cache
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\obj\Debug\net6.0\m.Adil 19101001-073.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\obj\Debug\net6.0\m.Adil 19101001-073.AssemblyInfoInputs.cache
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\obj\Debug\net6.0\m.Adil 19101001-073.AssemblyInfo.cs
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\obj\Debug\net6.0\m.Adil 19101001-073.csproj.CoreCompileInputs.cache
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\obj\Debug\net6.0\m.Adil 19101001-073.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\obj\Debug\net6.0\m.Adil 19101001-073.RazorAssemblyInfo.cache
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\obj\Debug\net6.0\m.Adil 19101001-073.RazorAssemblyInfo.cs
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\bin\Debug\net6.0\appsettings.json
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\bin\Debug\net6.0\m.Adil 19101001-073.staticwebassets.runtime.json
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\bin\Debug\net6.0\m.Adil 19101001-073.exe
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\bin\Debug\net6.0\m.Adil 19101001-073.deps.json
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\bin\Debug\net6.0\m.Adil 19101001-073.runtimeconfig.json
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\bin\Debug\net6.0\m.Adil 19101001-073.dll
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\bin\Debug\net6.0\m.Adil 19101001-073.pdb
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\obj\Debug\net6.0\scopedcss\bundle\m.Adil 19101001-073.styles.css
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\obj\Debug\net6.0\m.Adil 19101001-073.dll
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\obj\Debug\net6.0\refint\m.Adil 19101001-073.dll
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\obj\Debug\net6.0\m.Adil 19101001-073.pdb
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\obj\Debug\net6.0\m.Adil 19101001-073.genruntimeconfig.cache
+C:\Users\adilk\source\repos\m.Adil 19101001-073\m.Adil 19101001-073\obj\Debug\net6.0\ref\m.Adil 19101001-073.dll
